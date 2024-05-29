@@ -1,0 +1,3 @@
+with open("dados.txt","w") as arquivo:
+    conteudo = arquivo.write("O python é uma linguagem de programação de alto nível, intepretada e de proposito geral, conhecida pro sua sintaxe claro e legivel. \n Tal linguagem foi criada por Guido van Rossum, ela se destaca por sua aboradagem orientada a objetos, suporte a programação imperativa e funcional, além de oferecer uma ampla biblioteca padrão. \n Python é amplamente ultilizando em desenvolvimento web, análise de dado automação, inteligente artificial e aprendizad de maquina")
+    print(conteudo)

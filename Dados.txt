@@ -1,0 +1,3 @@
+O python é uma linguagem de programação de alto nível, intepretada e de proposito geral, conhecida pro sua sintaxe claro e legivel. 
+ Tal linguagem foi criada por Guido van Rossum, ela se destaca por sua aboradagem orientada a objetos, suporte a programação imperativa e funcional, além de oferecer uma ampla biblioteca padrão. 
+ Python é amplamente ultilizando em desenvolvimento web, análise de dado automação, inteligente artificial e aprendizad de maquina
